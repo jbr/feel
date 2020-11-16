@@ -1,0 +1,15 @@
+[package]
+name = "feel"
+version = "0.0.1"
+authors = ["Jacob Rothstein <hi@jbr.me>"]
+edition = "2018"
+description = "it goes beyond touch"
+keywords = ["touch", "mkdir"]
+license = "MIT OR Apache-2.0"
+readme = "README.md"
+repository = "https://github.com/jbr/feel"
+
+
+[dependencies]
+structopt = "0.3.20"
+filetime = "0.2.13"
